@@ -8,6 +8,8 @@ stroke-based generative models.
 There is no public stroke-sequential dataset for drawing line art.
 This project builds the pipeline to create one.
 
+<img width="5066" height="2522" alt="Firefly" src="https://github.com/user-attachments/assets/c114e040-873e-468b-a1f2-04f716585829" />
+
 ## Status
 
 **This repository is open from commit zero, but nothing is finished.**
